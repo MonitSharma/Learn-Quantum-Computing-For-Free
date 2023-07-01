@@ -5,7 +5,7 @@ Welcome to the Quantum Computing Learning Resources repository! This repository 
 ## Table of Contents
 
 - [Qiskit Resources](#qiskit-resources)
-- [Books](#books)
+- [Pennylane Resources](#pennylane-resources)
 - [Online Courses](#online-courses)
 - [Video Lectures](#video-lectures)
 - [Tutorials](#tutorials)
@@ -63,21 +63,29 @@ Quantum computing is an exciting field that leverages principles from quantum me
 
 
 
-## Books
+## Pennylane Resources
 
 Books are a great way to gain in-depth knowledge of quantum computing. Here are some free books available online:
 
-- [Quantum Computing for the Determined](https://quantum.country/qcfdc): An excellent book by Michael Nielsen and Andy Matuschak that provides an introduction to quantum computing.
+### Learn quantum programming
 
-- [Quantum Computation and Quantum Information](https://www.cambridge.org/9781107002173): A classic textbook by Michael A. Nielsen and Isaac L. Chuang. The authors have made the book available for free online.
+- [Quantum Computing](https://pennylane.ai/qml/quantum-computing/): Quantum computing is a research area that extends the set of physical laws classical computers operate on by accessing quantum aspects of the physical world, opening up new ways of processing information.
 
-## Online Courses
+- [Quantum machine learning](https://pennylane.ai/qml/quantum-machine-learning/): We're entering an exciting time in quantum physics and quantum computation: near-term quantum devices are rapidly becoming a reality, accessible to everyone over the internet. This, in turn, is driving the development of quantum machine learning and variational quantum circuits.
+- [Quantum Chemistry](https://pennylane.ai/qml/quantum-chemistry/): Quantum chemistry is an area of research focused on calculating properties of molecules and the materials built out of them, using quantum mechanics. Learn why quantum chemistry is one of the leading applications of quantum computing, and discover its fundamental concepts and applications through our collection of articles, tutorials, and demos.
+
+
+### Demonstrations and tutorials
 
 Online courses offer structured learning experiences and often include video lectures, quizzes, and assignments. Here are some free online courses on quantum computing:
 
-- [Quantum Computing for the Curious](https://quantum.country/qcvc): A comprehensive course by Michael Nielsen and Andy Matuschak that covers the basics of quantum computing.
+- [Demos](https://pennylane.ai/qml/demonstrations/): Take a deeper dive into quantum computing by exploring cutting-edge algorithms using PennyLane and quantum hardware.
+- [Videos](https://pennylane.ai/qml/videos/): Sit back and explore quantum machine learning and quantum programming with our curated selection of expert videos.
+- [XANADU QUANTUM CODEBOOK](https://codebook.xanadu.ai/): Use Pennylane to explore various quantum computing topics in the Quantum Codebook.
 
-- [Quantum Mechanics and Quantum Computation](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-845-quantum-complexity-theory-fall-2010/lecture-notes/): Lecture notes from a course by Scott Aaronson, a renowned quantum computing researcher.
+
+
+
 
 ## Video Lectures
 
