@@ -1,6 +1,7 @@
 # Quantum Computing Learning Resources
 
 Welcome to the Quantum Computing Learning Resources repository! This repository aims to provide a curated list of free resources to help you learn about quantum computing. Whether you are a beginner or an experienced researcher, these resources can help you dive into the fascinating world of quantum computing.
+(more resources will be added as I come across them, you can also add more resources)
 
 ## Table of Contents
 
@@ -64,7 +65,7 @@ Quantum computing is an exciting field that leverages principles from quantum me
 
 ## Pennylane Resources
 
-Books are a great way to gain in-depth knowledge of quantum computing. Here are some free books available online:
+Pennylane has some amazing demos and learning resources
 
 ### Learn quantum programming
 
@@ -76,7 +77,7 @@ Books are a great way to gain in-depth knowledge of quantum computing. Here are 
 
 ### Demonstrations and tutorials
 
-Online courses offer structured learning experiences and often include video lectures, quizzes, and assignments. Here are some free online courses on quantum computing:
+
 
 - [Demos](https://pennylane.ai/qml/demonstrations/): Take a deeper dive into quantum computing by exploring cutting-edge algorithms using PennyLane and quantum hardware.
 - [Videos](https://pennylane.ai/qml/videos/): Sit back and explore quantum machine learning and quantum programming with our curated selection of expert videos.
@@ -104,7 +105,7 @@ Video lectures can provide an interactive way to learn quantum computing concept
 
 ## Youtube
 
-Tutorials provide hands-on experience and practical examples to understand quantum computing better. Here are some free tutorial resources:
+Here are some online freely available courses as a Youtube playlist:
 
 - [Quantum Computing for the Determined](https://www.youtube.com/watch?v=X2q1PuI2RFI&list=PL1826E60FD05B44E4): A course on Introduction to quantum computing by Michael Nielson. To work through the videos you need to be comfortable with basic linear algebra, and with assimilating new mathematical terminology
 
@@ -118,7 +119,7 @@ Tutorials provide hands-on experience and practical examples to understand quant
 
 ## TU Delft
 
-Simulators and development tools allow you to experiment with quantum circuits and algorithms. Here are some free simulators and development tools:
+The courses made by TU Delft team, also available on edx
 
 - [Quantum 101: Quantum Computing & Quantum Internet](https://online-learning.tudelft.nl/programs/quantum-computing-and-quantum-internet/): The aim of this program is to help you get up to speed with the present progress in the transition to a quantum information era. After a quick review of some of the basic concepts that will enable you to understand the operating principles of quantum computation and quantum internet, the program will begin with an extensive discussion on some of the different ways qubits can be built.
 
