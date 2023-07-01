@@ -6,10 +6,9 @@ Welcome to the Quantum Computing Learning Resources repository! This repository 
 
 - [Qiskit Resources](#qiskit-resources)
 - [Pennylane Resources](#pennylane-resources)
-- [Online Courses](#online-courses)
-- [Video Lectures](#video-lectures)
-- [Tutorials](#tutorials)
-- [Simulators and Development Tools](#simulators-and-development-tools)
+- [Open HPI](#open-hpi)
+- [Youtube](#youtube)
+- [TU Delft](#tu-delft)
 - [Community Forums](#community-forums)
 - [Blogs and Newsletters](#blogs-and-newsletters)
 
@@ -29,7 +28,7 @@ Quantum computing is an exciting field that leverages principles from quantum me
 ### Chapters
 - [Prerequisites](https://qiskit.org/learn/course/prerequisites/): Learn about the software used to write the Qiskit textbook (Python and Jupyter Notebooks), and set up your environment to reproduce the experiments.
 - [Quantum States and Qubits](https://qiskit.org/learn/course/quantum-states-and-qubits): This chapter introduces the computing concepts that we'll explore in later chapters, then introduces basic quantum concepts.
-- [Multiple Qubits and Entanglement](https://qiskit.org/learn/course/multiple-qubits-and-entanglement/): With the basics down, this chapter explores the consequences of these new quantum effects, and sets us up with tools to understand quantum algorithms.
+- [Multiple Qubits and Entanglement](https://qiskit.org/learn/course/multiple-qubits-and-entanglement/): With the basics down, this chapter explores the consequences of these new quantum effects and sets us up with tools to understand quantum algorithms.
 - [Quantum Protocols and Quantum Algorithms](https://qiskit.org/learn/course/quantum-protocols-and-quantum-algorithms/): In this chapter, we use quantum effects to build powerful algorithms, starting from simple proof-of-concept algorithms, through to Shor's famous factoring algorithm (and beyond).
 - [Investigating Quantum Hardware Using Microwave Pulses](https://qiskit.org/learn/course/quantum-hardware-pulses/): In this chapter, we get a level closer to the real quantum machines. Learn about the physics of these devices, and how to program them at the level of microwave pulses.
 - [Quantum Algorithms for Applications](https://qiskit.org/learn/course/quantum-algorithms-for-applications/):  If algorithms are the solution, then what is the problem? In this chapter, we look at how we can take general algorithms and apply them to more specific situations.
@@ -56,7 +55,7 @@ Quantum computing is an exciting field that leverages principles from quantum me
 
 
 
-
+----
   
 
 
@@ -85,31 +84,55 @@ Online courses offer structured learning experiences and often include video lec
 
 
 
+-----
 
 
-## Video Lectures
+## Open HPI
 
 Video lectures can provide an interactive way to learn quantum computing concepts. Here are some free video lecture series:
 
-- [Quantum Computing for the Determined](https://www.youtube.com/playlist?list=PL1826E60FD05B44E4): A video lecture series based on the book of the same name by Michael Nielsen and Andy Matuschak.
+- [Introduction to Quantum Computing with Qiskit (with IBM Quantum)](https://open.hpi.de/courses/qc-qiskit2022): In this course you will learn how to use Qiskit for working with quantum computers. Qiskit is an SDK for working at the level of pulses, circuits, algorithms and application modules.
 
-- [Quantum Computing for the Very Curious](https://www.youtube.com/playlist?list=PL7ZVZgsnLwEEd1_PmZM0y3D4zHjlQV__v): A series of video lectures by Dr. J.J. Garcia-Luna-Aceves, covering various topics in quantum computing.
+- [Quantum Optimization (with IBM Quantum)](https://open.hpi.de/courses/qc-optimization2023): Optimization is ubiquitous in industry and research. However, many optimization problems of interest are hard to solve. In this lecture, Lucia, Julien and Daniel show you how quantum computing approaches combinatorial optimization problems.
+- [Quantum Machine Learning (with IBM Quantum)](https://open.hpi.de/courses/qc-machineLearning2023): In this course, we will not only learn about quantum machine learning and its prospects, but we will also solve concrete tasks with both classical and quantum models. This course is aimed at students, experts and enthusiasts of quantum computing or machine learning.
 
-## Tutorials
+
+----
+
+
+
+
+## Youtube
 
 Tutorials provide hands-on experience and practical examples to understand quantum computing better. Here are some free tutorial resources:
 
-- [IBM Quantum Experience](https://quantum-computing.ibm.com/): IBM's platform that provides access to quantum computers and simulators. It also offers tutorials and learning resources.
+- [Quantum Computing for the Determined](https://www.youtube.com/watch?v=X2q1PuI2RFI&list=PL1826E60FD05B44E4): A course on Introduction to quantum computing by Michael Nielson. To work through the videos you need to be comfortable with basic linear algebra, and with assimilating new mathematical terminology
 
-- [Microsoft Quantum Development Kit](https://docs.microsoft.com/en-us/quantum/): Microsoft's Quantum Development Kit provides tutorials, documentation, and resources for developing quantum applications using Q#.
+- [Introduction to Quantum Information Science](https://www.youtube.com/playlist?list=PLkespgaZN4gmu0nWNmfMflVRqw0VPkCGH): In this series of lectures you will learn how inherently quantum phenomena, such as quantum interference and quantum entanglement, can make information processing more efficient and more secure, even in the presence of noise. Can also check [website](https://qubit.guide/index.html)
+- [Quantum Mechanics and Quantum Computation](https://www.youtube.com/watch?v=VPsl_5RQe1A&list=PLnhoxwUZN7-6hB2iWNhLrakuODLaxPTOG): A course on quantum mechanics and quantum computation by Umesh Vazirani
+- [Quantum Machine Learning](https://www.youtube.com/watch?v=QtWCmO_KIlg&list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg) : A course on Quantum Machine Learning, created by Peter Wittek from the University of Toronto in Spring 2019
+- 
 
-## Simulators and Development Tools
+
+----
+
+## TU Delft
 
 Simulators and development tools allow you to experiment with quantum circuits and algorithms. Here are some free simulators and development tools:
 
-- [Qiskit](https://qiskit.org/): An open-source framework developed by IBM that provides a Python interface for working with quantum circuits, simulators, and quantum hardware.
+- [Quantum 101: Quantum Computing & Quantum Internet](https://online-learning.tudelft.nl/programs/quantum-computing-and-quantum-internet/): The aim of this program is to help you get up to speed with the present progress in the transition to a quantum information era. After a quick review of some of the basic concepts that will enable you to understand the operating principles of quantum computation and quantum internet, the program will begin with an extensive discussion on some of the different ways qubits can be built.
 
-- [Cirq](https://quantumai.google/cirq): An open-source framework by Google that allows researchers to create, edit, and run quantum circuits.
+- [The Quantum Internet and Quantum Computers: How Will They Change the World?](https://online-learning.tudelft.nl/courses/the-quantum-internet-and-quantum-computers/): Discover quantum computers and the quantum internet. Learn the principles and promises behind these developments and how quantum computing and quantum information will impact our future
+- [The Hardware of a Quantum Computer](https://online-learning.tudelft.nl/courses/the-hardware-of-a-quantum-computer/): Learn how a quantum computer could be physically build, and how it could be controlled.
+- [Architecture, Algorithms, and Protocols of a Quantum Computer and Quantum Internet](https://online-learning.tudelft.nl/courses/architecture-algorithms-and-protocols-of-a-quantum-computer-and-quantum-internet/): Learn how a quantum computer can be operated: you will go through the basics of quantum algorithms, quantum error-correction, micro-architectures, compilers, and programming languages for quantum computing, and protocols for the quantum internet.
+- [Fundamentals of Quantum Information](https://online-learning.tudelft.nl/courses/fundamentals-of-quantum-information/): Quantum information is at the heart of quantum computing: learn how it is mathematically represented via quantum circuits and how to manipulate quantum entanglement with these circuits.
+- [Quantum Cryptography](https://online-learning.tudelft.nl/courses/quantum-cryptography/): Learn how quantum communication provides security that is guaranteed by the laws of nature.
+
+-----
+
+
+
+
 
 ## Community Forums
 
