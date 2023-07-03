@@ -1,3 +1,5 @@
+[←←Back to Homepage](https://monitsharma.github.io/)
+
 # Quantum Computing Learning Resources
 
 Welcome to the Quantum Computing Learning Resources repository! This repository aims to provide a curated list of free resources to help you learn about quantum computing. Whether you are a beginner or an experienced researcher, these resources can help you dive into the fascinating world of quantum computing.
