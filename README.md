@@ -40,7 +40,7 @@ Quantum computing is an exciting field that leverages principles from quantum me
 - [Games and Demos](https://qiskit.org/learn/course/games-and-demos/): Check out games and demonstrations created in this textbook's environment; great for teaching, or just for fun!
 
 
- ### Tutorials
+### Tutorials
  - [Quantum Circuits](https://qiskit.org/documentation/tutorials.html#quantum-circuits/):  Comfortable with quantum computing, but new to Qiskit? Learn how to create simple quantum circuits, and visualize quantum states.
  - [Advanced Circuits](https://qiskit.org/documentation/tutorials.html#advanced-circuits/): Learn about the more advanced features of Qiskit's QuantumCircuit class, including how to create custom gates and how to use the transpiler to optimize your circuits and target different devices.
  - [Classical Simulators](https://qiskit.org/documentation/tutorials.html#classical-simulators/): Qiskit includes powerful quantum simulators to investigate how quantum circuits will behave on both ideal and noisy hardware. These tutorials show you how to use the advanced features of these simulators.
