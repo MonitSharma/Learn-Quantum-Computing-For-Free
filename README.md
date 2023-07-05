@@ -12,6 +12,7 @@ Welcome to the Quantum Computing Learning Resources repository! This repository 
 - [Open HPI](#open-hpi)
 - [Youtube](#youtube)
 - [TU Delft](#tu-delft)
+- [NPTEL](#nptel)
 - [Community Forums](#community-forums)
 - [Blogs and Newsletters](#blogs-and-newsletters)
 
@@ -133,9 +134,18 @@ The courses made by TU Delft team, also available on edx
 
 -----
 
+## NPTEL
+
+The course made available freely by the online platform of NPTEL
+
+-[Introduction to Quantum Computing: Quantum Algorithms and Qiskit, IBM and IITM](https://nptel.ac.in/courses/106106232): This course will provide introduction to Quantum Computation, starting with basic concepts such as superposition and entanglement, to discussing the quantum circuit model of computation and basic Quantum algorithms that demonstrate the power of computing with quantum bits.
+ 
 
 
 
+
+
+---
 
 ## Community Forums
 
