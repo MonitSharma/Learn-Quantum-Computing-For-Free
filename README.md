@@ -115,7 +115,7 @@ Here are some online freely available courses as a Youtube playlist:
 - [Introduction to Quantum Information Science](https://www.youtube.com/playlist?list=PLkespgaZN4gmu0nWNmfMflVRqw0VPkCGH): In this series of lectures you will learn how inherently quantum phenomena, such as quantum interference and quantum entanglement, can make information processing more efficient and more secure, even in the presence of noise. Can also check [website](https://qubit.guide/index.html)
 - [Quantum Mechanics and Quantum Computation](https://www.youtube.com/watch?v=VPsl_5RQe1A&list=PLnhoxwUZN7-6hB2iWNhLrakuODLaxPTOG): A course on quantum mechanics and quantum computation by Umesh Vazirani
 - [Quantum Machine Learning](https://www.youtube.com/watch?v=QtWCmO_KIlg&list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg) : A course on Quantum Machine Learning, created by Peter Wittek from the University of Toronto in Spring 2019
-- 
+- [Ph219/CS219 Quantum Computation](https://www.youtube.com/playlist?list=PL0ojjrEqIyPy-1RRD8cTD_lF1hflo89Iu): Topics covered in 219A include density operators, quantum operations, quantum entanglement, quantum circuits, and quantum algorithms. Check the [website](http://theory.caltech.edu/~preskill/ph219/ph219_2021-22.html)
 
 
 ----
