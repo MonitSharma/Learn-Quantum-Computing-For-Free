@@ -13,6 +13,7 @@ Welcome to the Quantum Computing Learning Resources repository! This repository 
 - [Youtube](#youtube)
 - [TU Delft](#tu-delft)
 - [NPTEL](#nptel)
+- [Individuals](#individuals)
 - [Community Forums](#community-forums)
 - [Blogs and Newsletters](#blogs-and-newsletters)
 
@@ -141,6 +142,14 @@ The course made available freely by the online platform of NPTEL
 -[Introduction to Quantum Computing: Quantum Algorithms and Qiskit, IBM and IITM](https://nptel.ac.in/courses/106106232): This course will provide introduction to Quantum Computation, starting with basic concepts such as superposition and entanglement, to discussing the quantum circuit model of computation and basic Quantum algorithms that demonstrate the power of computing with quantum bits.
  
 
+-----
+
+## Individuals
+This contains blog posts by individuals
+
+- [Shtetl-Optimized](https://scottaaronson.blog/) : The Blog of Scott Aaronson. If you take nothing else from this blog: quantum computers won't solve hard problems instantly by just trying all solutions in parallel.
+
+- [Zlatko Minev's Blogs](https://www.zlatko-minev.com/blog) : He is the technical lead and manager of the following  groups at IBM Quantum - Qiskit Leap (quantum computing research) and Qiskit Metal (quantum hardware). His background is in experimental and theoretical quantum computing, software, fundamental and applied physics.  
 
 
 
