@@ -10,6 +10,7 @@ Welcome to the Quantum Computing Learning Resources repository! This repository 
 - [Qiskit Resources](#qiskit-resources)
 - [Pennylane Resources](#pennylane-resources)
 - [Open HPI](#open-hpi)
+- [IQM](#iqm)
 - [Youtube](#youtube)
 - [TU Delft](#tu-delft)
 - [NPTEL](#nptel)
@@ -104,7 +105,18 @@ Video lectures can provide an interactive way to learn quantum computing concept
 
 ----
 
+# IQM
+Check their full [website](https://www.iqmacademy.com/learn/qec/01-qec-intro/)
 
+- [Foundations of Quantum Computing](https://www.iqmacademy.com/curriculum/index.html): Our modules are exploratory in nature. Thus, you will actively experience the different ideas of quantum computing, its algorithms and its applications.
+- [Quantum Computing Applications](https://www.iqmacademy.com/curriculum/applications01.html):  In this module you will learn about areas in which quantum computing promises to be effective and how it can impact your business and which actions you can take to get ready for the quantum era.
+- [Quantum Algorithms](https://www.iqmacademy.com/curriculum/algorithms01.html):  In this module you will learn what an algorithm is and how quantum algorithms differ from classical algorithms.How quantum algorithms can provide a speed up over classical algorithms and how successful algorithms that can provide (business) value.
+
+
+
+
+
+------
 
 
 ## Youtube
