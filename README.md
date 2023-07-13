@@ -161,7 +161,7 @@ The courses made by TU Delft team, also available on edx
 
 ## NPTEL
 
-The course made available freely by the online platform of NPTEL
+The course is made available freely by the online platform of NPTEL
 
 -[Introduction to Quantum Computing: Quantum Algorithms and Qiskit, IBM and IITM](https://nptel.ac.in/courses/106106232): This course will provide introduction to Quantum Computation, starting with basic concepts such as superposition and entanglement, to discussing the quantum circuit model of computation and basic Quantum algorithms that demonstrate the power of computing with quantum bits.
  
@@ -171,15 +171,15 @@ The course made available freely by the online platform of NPTEL
 ## Individuals
 This contains blog posts by individuals
 
-- [Shtetl-Optimized](https://scottaaronson.blog/) : The Blog of Scott Aaronson. If you take nothing else from this blog: quantum computers won't solve hard problems instantly by just trying all solutions in parallel.
+- [Shtetl-Optimized](https://scottaaronson.blog/): The Blog of Scott Aaronson. If you take nothing else from this blog: quantum computers won't solve hard problems instantly by just trying all solutions in parallel.
 
-- [Zlatko Minev's Blogs](https://www.zlatko-minev.com/blog) : He is the technical lead and manager of the following  groups at IBM Quantum - Qiskit Leap (quantum computing research) and Qiskit Metal (quantum hardware). His background is in experimental and theoretical quantum computing, software, and fundamental and applied physics.  
+- [Zlatko Minev's Blogs](https://www.zlatko-minev.com/blog): He is the technical lead and manager of the following  groups at IBM Quantum - Qiskit Leap (quantum computing research) and Qiskit Metal (quantum hardware). His background is in experimental and theoretical quantum computing, software, and fundamental and applied physics.  
 
 ----
 
 ## Github
 
-- [Learn CS](https://ocw.mit.edu/courses/18-435j-quantum-computation-fall-2003/pages/lecture-notes/) : Path to free self-taught education in Computer Science!
+- [Learn CS](https://github.com/ossu/computer-science): Path to free self-taught education in Computer Science!
 
 
 ---
