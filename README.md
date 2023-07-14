@@ -175,7 +175,7 @@ This contains blog posts by individuals
 
 - [Zlatko Minev's Blogs](https://www.zlatko-minev.com/blog): He is the technical lead and manager of the following  groups at IBM Quantum - Qiskit Leap (quantum computing research) and Qiskit Metal (quantum hardware). His background is in experimental and theoretical quantum computing, software, and fundamental and applied physics.
 
-- [Musty Thoughts by Michal Blogs](https://www.mustythoughts.com/): Michal is a quantum software engineer. He's interested in resource estimation, optimization, data visualization and research process (among others). He uses this blog as a platform to write about the topics that he find worth writing about :) Right now he is focused on quantum computing, but you can expect occasional articles on other topics.
+- [Musty Thoughts by Michal](https://www.mustythoughts.com/): Michal is a quantum software engineer. He's interested in resource estimation, optimization, data visualization and research process (among others). He uses this blog as a platform to write about the topics that he find worth writing about :) Right now he is focused on quantum computing, but you can expect occasional articles on other topics.
 
 ----
 
