@@ -132,7 +132,15 @@ Here are some online freely available courses as a Youtube playlist:
 - [Quantum Machine Learning](https://www.youtube.com/watch?v=QtWCmO_KIlg&list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg) : A course on Quantum Machine Learning, created by Peter Wittek from the University of Toronto in Spring 2019
 - [Ph219/CS219 Quantum Computation](https://www.youtube.com/playlist?list=PL0ojjrEqIyPy-1RRD8cTD_lF1hflo89Iu): Topics covered in 219A include density operators, quantum operations, quantum entanglement, quantum circuits, and quantum algorithms. Check the [website](http://theory.caltech.edu/~preskill/ph219/ph219_2021-22.html)
 - [Qiskit's Youtube Playlists](https://www.youtube.com/@qiskit/playlists) : All the playlist that Qiskit has made available on their youtube channel. My favorites are the **Qiskit Seminar Series** and **Let's talk about Quantum**. Make sure to check all.
-- [Xanadu's Youtube Videos](https://www.youtube.com/@XanaduAI/playlists) : All the amazing Qhack seminars and Xanadu tutorials made available on Youtube. 
+- [Xanadu's Youtube Videos](https://www.youtube.com/@XanaduAI/playlists) : All the amazing Qhack seminars and Xanadu tutorials made available on Youtube.
+
+- [QC Ware](https://www.youtube.com/@QCWare/playlists) : Talks related to Quantum Computing, and online seminar talks in various fields of Quantum Computing.
+
+- [Google Quiantum AI](https://www.youtube.com/@GoogleQuantumAI/playlists) : Welcome to the official YouTube Channel for Quantum AI. Explore our how-to videos on programming quantum computers, stay up-to-date with the latest scientific breakthroughs, or discover new tools to use for your next quantum project. Subscribe to our channel, so you don’t miss the newest updates in the quantum community!
+
+- [QC Theory](https://www.youtube.com/@qctheory5336/playlists) : This channel was created to teach Quantum Computing for online education. The material given here is for advanced undergraduate and early graduate computer science and mathematics students. Visit the official website of the channel's owner : [Ahmet Çevik](http://ahmetcevik.com/?lang=en)
+
+- [QIP 2022](https://www.youtube.com/@QIP-ru9od/playlists) : Quantum Information Processing (QIP) is a rapidly developing field of research spanning both physics and computer science. As the name implies, the field extends information processing (including computing and cryptography) to physical regimes where quantum effects become significant. QIP is also the name of the largest annual conference in the field, with around 1000 attendees and 500 submissions (as of 2023). Check the website [QIP](https://qipconference.org/)
 
 
 ----
