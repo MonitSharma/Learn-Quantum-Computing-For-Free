@@ -20,7 +20,9 @@ Welcome to the Quantum Computing Learning Resources repository! This repository 
 - [Community Forums](#community-forums)
 - [Blogs and Newsletters](#blogs-and-newsletters)
 
-## Qiskit Resources
+
+
+# Qiskit Resources
 
 Quantum computing is an exciting field that leverages principles from quantum mechanics to solve complex problems more efficiently than classical computers. It involves concepts like superposition, entanglement, and quantum gates. This section provides an introduction to quantum computing.
 
@@ -69,7 +71,7 @@ Quantum computing is an exciting field that leverages principles from quantum me
 
 
 
-## Pennylane Resources
+# Pennylane Resources
 
 Pennylane has some amazing demos and learning resources
 
@@ -94,7 +96,7 @@ Pennylane has some amazing demos and learning resources
 
 
 
-## Open HPI
+# Open HPI
 
 Video lectures can provide an interactive way to learn quantum computing concepts. Here are some free video lecture series:
 
@@ -120,7 +122,7 @@ Check their full [website](https://www.iqmacademy.com/learn/qec/01-qec-intro/)
 
 
 
-## Youtube
+# Youtube
 
 Here are some online freely available courses as a Youtube playlist:
 
@@ -144,7 +146,7 @@ Here are some online freely available courses as a Youtube playlist:
 
 
 
-## MIT
+# MIT
 The coursework offered at MIT
 
 - [Quantum Computation](https://ocw.mit.edu/courses/18-435j-quantum-computation-fall-2003/pages/lecture-notes/) : A course by Prof. Peter Shor
@@ -154,7 +156,7 @@ The coursework offered at MIT
 
 
 
-## TU Delft
+# TU Delft
 
 The courses made by TU Delft team, also available on edx
 
@@ -169,7 +171,7 @@ The courses made by TU Delft team, also available on edx
 
 
 
-## NPTEL
+# NPTEL
 
 The course is made available freely by the online platform of NPTEL
 
@@ -179,7 +181,7 @@ The course is made available freely by the online platform of NPTEL
 
 
 
-## Individuals
+# Individuals
 This contains blog posts by individuals
 
 - [Shtetl-Optimized](https://scottaaronson.blog/): The Blog of Scott Aaronson. If you take nothing else from this blog: quantum computers won't solve hard problems instantly by just trying all solutions in parallel.
@@ -191,7 +193,7 @@ This contains blog posts by individuals
 
 
 
-## Github
+# Github
 
 - [Learn CS](https://github.com/ossu/computer-science): Path to free self-taught education in Computer Science!
 
@@ -200,7 +202,7 @@ This contains blog posts by individuals
 
 
 
-## Community Forums
+# Community Forums
 
 Engaging with the quantum computing community can enhance your learning experience. Here are some community forums where you can ask questions and connect with experts:
 
@@ -208,7 +210,7 @@ Engaging with the quantum computing community can enhance your learning experien
 
 - [Quantum Computing Reddit](https://www.reddit.com/r/QuantumComputing/): A subreddit where you can find discussions, news, and resources related to quantum computing.
 
-## Blogs and Newsletters
+# Blogs and Newsletters
 
 Blogs and newsletters are great for staying up-to-date with the latest developments in quantum computing. Here are some resources to follow:
 
