@@ -63,8 +63,7 @@ Quantum computing is an exciting field that leverages principles from quantum me
 
 
 
-----
-  
+
 
 
 
@@ -92,7 +91,7 @@ Pennylane has some amazing demos and learning resources
 
 
 
------
+
 
 
 ## Open HPI
@@ -105,7 +104,7 @@ Video lectures can provide an interactive way to learn quantum computing concept
 - [Quantum Machine Learning (with IBM Quantum)](https://open.hpi.de/courses/qc-machineLearning2023): In this course, we will not only learn about quantum machine learning and its prospects, but we will also solve concrete tasks with both classical and quantum models. This course is aimed at students, experts and enthusiasts of quantum computing or machine learning.
 
 
-----
+
 
 # IQM
 Check their full [website](https://www.iqmacademy.com/learn/qec/01-qec-intro/)
@@ -118,7 +117,7 @@ Check their full [website](https://www.iqmacademy.com/learn/qec/01-qec-intro/)
 
 
 
-------
+
 
 
 ## Youtube
@@ -143,7 +142,7 @@ Here are some online freely available courses as a Youtube playlist:
 - [QIP 2022](https://www.youtube.com/@QIP-ru9od/playlists) : Quantum Information Processing (QIP) is a rapidly developing field of research spanning both physics and computer science. As the name implies, the field extends information processing (including computing and cryptography) to physical regimes where quantum effects become significant. QIP is also the name of the largest annual conference in the field, with around 1000 attendees and 500 submissions (as of 2023). Check the website [QIP](https://qipconference.org/)
 
 
-----
+
 
 ## MIT
 The coursework offered at MIT
@@ -153,7 +152,7 @@ The coursework offered at MIT
 
 
 
-----
+
 
 ## TU Delft
 
@@ -167,7 +166,8 @@ The courses made by TU Delft team, also available on edx
 - [Fundamentals of Quantum Information](https://online-learning.tudelft.nl/courses/fundamentals-of-quantum-information/): Quantum information is at the heart of quantum computing: learn how it is mathematically represented via quantum circuits and how to manipulate quantum entanglement with these circuits.
 - [Quantum Cryptography](https://online-learning.tudelft.nl/courses/quantum-cryptography/): Learn how quantum communication provides security that is guaranteed by the laws of nature.
 
------
+
+
 
 ## NPTEL
 
@@ -176,7 +176,8 @@ The course is made available freely by the online platform of NPTEL
 -[Introduction to Quantum Computing: Quantum Algorithms and Qiskit, IBM and IITM](https://nptel.ac.in/courses/106106232): This course will provide introduction to Quantum Computation, starting with basic concepts such as superposition and entanglement, to discussing the quantum circuit model of computation and basic Quantum algorithms that demonstrate the power of computing with quantum bits.
  
 
------
+
+
 
 ## Individuals
 This contains blog posts by individuals
@@ -187,14 +188,17 @@ This contains blog posts by individuals
 
 - [Musty Thoughts by Michal](https://www.mustythoughts.com/): Michal is a quantum software engineer. He's interested in resource estimation, optimization, data visualization and research process (among others). He uses this blog as a platform to write about the topics that he find worth writing about :) Right now he is focused on quantum computing, but you can expect occasional articles on other topics.
 
-----
+
+
 
 ## Github
 
 - [Learn CS](https://github.com/ossu/computer-science): Path to free self-taught education in Computer Science!
 
 
----
+
+
+
 
 ## Community Forums
 
