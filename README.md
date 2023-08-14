@@ -191,6 +191,10 @@ This contains blog posts by individuals
 
 - [Musty Thoughts by Michal](https://www.mustythoughts.com/): Michal is a quantum software engineer. He's interested in resource estimation, optimization, data visualization and research process (among others). He uses this blog as a platform to write about the topics that he find worth writing about :) Right now he is focused on quantum computing, but you can expect occasional articles on other topics.
 
+- [Quantum Algorithms](https://quantumalgorithms.org/) : The aim of this book is twofold:  First, we want to bridge the gap between introductory material in quantum computation and research material.
+    Second, you should be able to use this book as a resource for state-of-the-art algorithms. Readers and scholars should find statements of theorems (along with their citations) and runtimes of the best quantum subroutines in literature, ready to be used in new quantum algorithms or applications.
+
+
 
 
 
