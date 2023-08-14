@@ -195,6 +195,9 @@ This contains blog posts by individuals
     Second, you should be able to use this book as a resource for state-of-the-art algorithms. Readers and scholars should find statements of theorems (along with their citations) and runtimes of the best quantum subroutines in literature, ready to be used in new quantum algorithms or applications.
 
 
+- [Peter Shor's Lecture Notes](https://math.mit.edu/~shor/435-LN/) : Lecture Notes for 8.370/18.435 Quantum Computation from Fall 2022
+
+
 
 
 
