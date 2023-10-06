@@ -90,7 +90,7 @@ Pennylane has some amazing demos and learning resources
 - [Demos](https://pennylane.ai/qml/demonstrations/): Take a deeper dive into quantum computing by exploring cutting-edge algorithms using PennyLane and quantum hardware.
 - [Videos](https://pennylane.ai/qml/videos/): Sit back and explore quantum machine learning and quantum programming with our curated selection of expert videos.
 - [XANADU QUANTUM CODEBOOK](https://codebook.xanadu.ai/): Use Pennylane to explore various quantum computing topics in the Quantum Codebook.
-
+- [PennyLane Challenges](https://pennylane.ai/challenges) : Get hands-on experience with quantum computing in PennyLane — from quantum chemistry to quantum machine learning — using our exclusive coding challenges.
 
 
 
