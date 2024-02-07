@@ -22,6 +22,7 @@ Welcome to the Quantum Computing Learning Resources repository! This repository 
 
 
 
+
 # Qiskit Resources
 
 Quantum computing is an exciting field that leverages principles from quantum mechanics to solve complex problems more efficiently than classical computers. It involves concepts like superposition, entanglement, and quantum gates. This section provides an introduction to quantum computing.
@@ -198,6 +199,13 @@ This contains blog posts by individuals
 
 
 - [Peter Shor's Lecture Notes](https://math.mit.edu/~shor/435-LN/) : Lecture Notes for 8.370/18.435 Quantum Computation from Fall 2022
+
+- [Quantum Computation Course by John Preskill](http://theory.caltech.edu/~preskill/) : Ph/CS 219A is the first term in a three-term course on quantum computation and quantum information science. Topics covered in 219A include density operators, quantum operations, quantum entanglement, quantum circuits, and quantum algorithms
+- [Quantum Computation by Umesh Vazirani](https://people.eecs.berkeley.edu/~vazirani/quantum.html) : CS294-2: Quantum Computation
+- [Quantum Computing Lecture Notes by Ronald De Wolfe](https://arxiv.org/abs/1907.09415) : This is a set of lecture notes suitable for a Master's course on quantum computation and information from the perspective of theoretical computer science. The first version was written in 2011, with many extensions and improvements in subsequent years. The first 10 chapters cover the circuit model and the main quantum algorithms (Deutsch-Jozsa, Simon, Shor, Hidden Subgroup Problem, Grover, quantum walks, Hamiltonian simulation and HHL)
+
+
+
 
 
 
