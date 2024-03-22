@@ -143,6 +143,10 @@ Here are some online freely available courses as a Youtube playlist:
 - [QC Theory](https://www.youtube.com/@qctheory5336/playlists) : This channel was created to teach Quantum Computing for online education. The material given here is for advanced undergraduate and early graduate computer science and mathematics students. Visit the official website of the channel's owner : [Ahmet Çevik](http://ahmetcevik.com/?lang=en)
 
 - [QIP 2022](https://www.youtube.com/@QIP-ru9od/playlists) : Quantum Information Processing (QIP) is a rapidly developing field of research spanning both physics and computer science. As the name implies, the field extends information processing (including computing and cryptography) to physical regimes where quantum effects become significant. QIP is also the name of the largest annual conference in the field, with around 1000 attendees and 500 submissions (as of 2023). Check the website [QIP](https://qipconference.org/)
+- [QIP 2023](https://www.youtube.com/@qip2023) : Watch the lecture videos of QIP 2023 [here](https://www.youtube.com/@qip2023)
+- [QIP 2024](https://www.youtube.com/@QIP2024/videos) : Watch the lecture videos of QIP 2024 [here](https://www.youtube.com/@QIP2024/videos)
+
+
 - [Differential Equations](https://www.youtube.com/watch?v=9fQkLQZe3u8&list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA&index=2) : Lean about Differential Equations and Dynamical Systems. This is one of my favorite topics in all of math. And this finishes up all the videos for a two-quarter, 60 hour set of lectures on Engineering Mathematics!
 - [Probability and Statistics, Harvard](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo): Statistics 110 (Probability) has been taught at Harvard University by Joe Blitzstein (Professor of the Practice in Statistics, Harvard University) each year since 2006
 
